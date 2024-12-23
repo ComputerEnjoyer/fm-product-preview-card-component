@@ -54,7 +54,7 @@ header {
 }
 
 h1 {
-  display: none;
+  visibility: collapse;
 }
 
 p {
